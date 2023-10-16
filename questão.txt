@@ -1,0 +1,22 @@
+A Defesa Civil, mediante a chuva forte que assolou a cidade na noite de ontem, necessita de criar com urgência um sistema que seja capaz de coletar os dados referentes 
+as ocorrências e posteriormente realizar o compartilhamento destes dados com os demais órgãos envolvidos na atuação frente a esta situação anormal.
+
+
+Para isso, você foi designado para criar um sistema que armazene as informações a seguir:
+
+Nome do solicitante da ocorrência;
+CPF;
+Endereço completo;
+Telefone;
+Horário;
+Descrição do ocorrido;
+Observação.
+
+Para uma melhor operação o sistema deverá ser capaz, além de cadastrar um registro, atualizar e listar. 
+Não será necessário deletar os registros pois caso seja necessário, basta atualizar o campo observação relatando que a ocorrência foi cancelada.
+
+O sistema deverá ser desenvolvido em Python e como banco de dados, usar o Microsoft Excel.
+
+Você deverá entregar o arquivo em Python e a planilha do excel até 12:00 pois eles precisam utilizar o sistema o mais rápido possível.
+
+A Defesa Civil agradece a sua ação e a população atingida pela chuva conta com você!
